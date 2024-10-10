@@ -1,0 +1,11 @@
+{
+  "name": "04-while_loop_do_while_loop_break",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
