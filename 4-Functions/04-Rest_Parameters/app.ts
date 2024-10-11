@@ -32,4 +32,4 @@ function birlestir(message: string, ...names: string[]) {
 }
 
 // Fonksiyonu çağır
-birlestir("A", "B", "C", "D"); // "Merhaba Can, Osman, Tuba"
+birlestir("A", "B", "C", "D");
